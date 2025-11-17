@@ -85,5 +85,4 @@ disp("✅ Waveforms plotted successfully. Close the graph window manually to fin
 Thus the speech recognition using SCILAB was performed and verified.
 
 
-## RESULT: 
-Thus the speech recognition using SCILAB was performed and verified.
+
